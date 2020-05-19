@@ -14,7 +14,6 @@ First webpage based on platzi course.
 - https://platzi.com/
 
 ------------
-
 #### Author
 Innacroft
 [Link to My portfolio](https://innacroft.github.io/portfolio/)<br>
